@@ -1,0 +1,17 @@
+#macOS
+.DS_Store
+
+#python cache
+__pycache__/
+
+#temp file
+/rsc/data/rooms
+
+#server only
+/pages/server.html
+
+#testing
+#run `npm install mocha chai --save-dev` from the /test/js directory to get the below
+/test/js/node_modules/ 
+/test/js/package-lock.json
+/test/python/test.log
