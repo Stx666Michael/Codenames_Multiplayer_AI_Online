@@ -19,7 +19,7 @@ For running the production WSGI server please refer to _Software Manual_ part of
 
 ### Stable Version (online)
 A stable version of the application available for immediate use is deployed on two servers:
-- [🇬🇧 UK - South (London)](http://178.128.33.85/codenames/)
+- [🇬🇧 UK - South (London)](http://134.209.184.242/codenames/)
 - [🇺🇸 US - East (Virginia)](http://3.83.45.21/games/team18_project/)
 
 This version may not yet have some of the features that are present in the latest version, but it requires no installation and allows multiplayer between computers on different networks.
