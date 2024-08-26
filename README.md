@@ -1,7 +1,9 @@
 # Team 18 Codenames Project
 This project emulates the [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)) boardgame in a web browser. It allows for up to 4 players to play against each other taking the roles of either “spy” or “spymaster”. Players can also challenge AI opponents in different role and difficulty configurations.
 
-Welcome to our project website http://www.codenames.uk to try our game online and learn more about it.
+Welcome to our project [website](http://www.codenames.uk) to try our game online and learn more about it.
+
+[YouTube Demo](https://youtu.be/3vmTPu_xKaA?si=n9JHsFSEiFOeoEi9)
 
 ## Installation
 ### Latest Version (local host)
